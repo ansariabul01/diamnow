@@ -55,6 +55,7 @@
             <tr>
                 <td  style="padding: 10px"  colspan="2" align="center">
                     <input type="submit" name="btnSubmit" value="Register Now">
+                    <a href="login.php">Login</a>
                 </td>
             </tr>
             </form>
