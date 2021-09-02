@@ -15,7 +15,7 @@ s<html>
             ?>
             <tr>
                 <td colspan="2" align="center">
-                    <h2>User Already Exists Please Login</h2>
+                    <h2>User Not Found</h2>
                 </td>
             </tr>
             <?php
@@ -37,7 +37,8 @@ s<html>
             </tr>
             <tr>
                 <td  style="padding: 10px"  colspan="2" align="center">
-                    <input type="submit" name="btnSubmit" value="Register Now">
+                    <input type="submit" name="btnSubmit" value="Login Now">
+                    <a href="register.php">Register !</a>
                 </td>
             </tr>
             </form>
